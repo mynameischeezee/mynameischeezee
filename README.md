@@ -1,5 +1,5 @@
 # Hello, my name is Max.
-### I’m currently working at Itransition as a .NET developer.
+### I’m currently working at Smiss ltd. as a .NET developer.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameischeezee&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mynameischeezee/mynameischeezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
